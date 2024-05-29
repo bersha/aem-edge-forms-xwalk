@@ -1,2 +1,4 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1PkDxn3k1RE1X233Lvj6GmwPMapaA0XiZ
+  /: url: "https://author-p113804-e1338322.adobeaemcloud.com/bin/franklin.delivery/bersha/aem-edge-forms-xwalk/main"
+    type: "markup"
+    suffix: ".html"
