@@ -1,4 +1,4 @@
 mountpoints:
-  /: url: "https://author-p113804-e1338322.adobeaemcloud.com/bin/franklin.delivery/bersha/aem-edge-forms-xwalk/main"
+  /: url: "https://author-p113804-e1338322.adobeaemcloud.com/bin/franklin.delivery/bersha/forms-eds-xwalk-demo/main"
     type: "markup"
     suffix: ".html"
